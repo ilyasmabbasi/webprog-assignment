@@ -1,3 +1,8 @@
+## Name: Ilyas Muhammad
+## Roll. No: 2K18/CSC/06
+## Web Programming Assignment (To-do List & Blog Post)
+## Assignment Given by: Sir Gulsher Laghari
+
 # Todo and Blog Application
 
 In this assignemnt-based project, I have implemented a session based Todo and Blog application using PDO's approch.
