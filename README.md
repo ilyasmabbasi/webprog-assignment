@@ -1,7 +1,7 @@
-## Name: Ilyas Muhammad
-## Roll. No: 2K18/CSC/06
-## Web Programming Assignment (To-do List & Blog Post)
-## Assignment Given by: Sir Gulsher Laghari
+### Name: Ilyas Muhammad
+### Roll. No: 2K18/CSC/06
+### Web Programming Assignment (To-do List & Blog Post)
+### Assignment Given by: Sir Gulsher Laghari
 
 # Todo and Blog Application
 
